@@ -76,8 +76,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 ```
-Developed by : ARAVIND P
-Register number : 212224240015
+Developed by : KARTHIKEYAN K
+Register number : 212223230101
 ```
 
 
