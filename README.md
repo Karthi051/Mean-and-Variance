@@ -1,5 +1,5 @@
 # DATE : 
-21/05/2025
+
 
 # EXP NO : 1  Mean and variance of a discrete  distribution
 
