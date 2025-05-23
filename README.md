@@ -1,4 +1,4 @@
-# DATE : 
+# DATE : 04\3\25
 
 
 # EXP NO : 1  Mean and variance of a discrete  distribution
